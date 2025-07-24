@@ -35,11 +35,12 @@ You can clone the entire repo and explore each project individually.
    Or, if using VS Code, right-click the file and choose "Open with Live Server".
 4. No backend or server setup is required – everything runs directly in your browser! 
 
-🚧 Future Plans
-Add JavaScript-based interactivity to projects
-Host projects with GitHub Pages
-Build a full personal portfolio site using these components
-Add responsiveness to all projects for mobile view
+## 🚧 Future Plans
+
+- Add JavaScript-based interactivity to projects  
+- Host projects with GitHub Pages  
+- Build a full personal portfolio site using these components  
+- Add responsiveness to all projects for mobile view
 
 
 ## 👩‍💻 Developed by
