@@ -20,7 +20,6 @@ This is a simple tribute page dedicated to the Missile Man of India, Dr. A.P.J. 
 3. Open `TributePage.html` to view the homepage  
 4. No backend or server setup required
 
----
 
 ## 👩‍💻 Developed by
 
