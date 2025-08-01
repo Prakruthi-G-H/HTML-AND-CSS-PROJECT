@@ -33,8 +33,8 @@ This project is a simple and elegant **Accordion UI component** built using **HT
    
 3. Ensure both files are present in the folder:
    
-   -Accordionpage.html
-   -Accordionpage.css
+   - Accordionpage.html
+   - Accordionpage.css
     
 4. Open Accordionpage.html in any modern web browser (e.g., Chrome, Firefox, Edge).
 
