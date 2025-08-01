@@ -32,6 +32,7 @@ This project is a simple and elegant **Accordion UI component** built using **HT
     Accordion page/
    
 3. Ensure both files are present in the folder:
+   
    -Accordionpage.html
    -Accordionpage.css
     
