@@ -11,4 +11,6 @@ This project is a simple and elegant **Accordion UI component** built using **HT
 
 ## 📁 Folder Structure
 
-
+- `Accordionpage.html` → Main frontend HTML structure  
+- `Accordionpage.css`  → Styling for layout and elements  
+- `README.md` → Project documentation
