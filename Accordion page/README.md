@@ -26,24 +26,16 @@ This project is a simple and elegant **Accordion UI component** built using **HT
 ## 🚀 How to Run
 
 1. Download or clone the repository:  
-   `git clone https://github.com/Prakruthi-G-H/BMW-Homepage-Clone.git`
-
-2. Open the folder in any browser or use Live Server in VS Code  
-3. Open `Project.html` to view the homepage  
-4. No backend or server setup required
-
-## 🚀 How to Run This Project
-
-1. Clone or download the repository from GitHub:
-    ` https://github.com/Prakruthi-G-H/HTML-AND-CSS-PROJECT`
+   `git clone https://github.com/Prakruthi-G-H/HTML-AND-CSS-PROJECT`
 
 2. Navigate to the folder:
     Accordion page/
-
+   
 3. Ensure both files are present in the folder:
    -Accordionpage.html
    -Accordionpage.css
-
+    
 4. Open Accordionpage.html in any modern web browser (e.g., Chrome, Firefox, Edge).
+
 
 
