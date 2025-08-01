@@ -26,7 +26,7 @@ This project is a simple and elegant **Accordion UI component** built using **HT
 ## 🚀 How to Run This Project
 
 1.Clone or download the repository from GitHub:
-   https://github.com/Prakruthi-G-H/HTML-AND-CSS-PROJECT
+  ` https://github.com/Prakruthi-G-H/HTML-AND-CSS-PROJECT`
 
 2.Navigate to the folder:
    Accordion page/
