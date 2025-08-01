@@ -23,6 +23,15 @@ This project is a simple and elegant **Accordion UI component** built using **HT
 - Each question expands independently using radio buttons
 - Beginner-friendly structure and code
 
+## 🚀 How to Run
+
+1. Download or clone the repository:  
+   `git clone https://github.com/Prakruthi-G-H/BMW-Homepage-Clone.git`
+
+2. Open the folder in any browser or use Live Server in VS Code  
+3. Open `Project.html` to view the homepage  
+4. No backend or server setup required
+
 ## 🚀 How to Run This Project
 
 1. Clone or download the repository from GitHub:
