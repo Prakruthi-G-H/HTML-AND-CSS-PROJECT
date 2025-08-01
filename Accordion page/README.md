@@ -14,3 +14,13 @@ This project is a simple and elegant **Accordion UI component** built using **HT
 - `Accordionpage.html` → Main frontend HTML structure  
 - `Accordionpage.css`  → Styling for layout and elements  
 - `README.md` → Project documentation
+
+## 📌 Features
+
+- Clean, responsive accordion layout
+- Smooth expand/collapse animation
+- Styled with gradients and shadows
+- Each question expands independently using radio buttons
+- Beginner-friendly structure and code
+
+
