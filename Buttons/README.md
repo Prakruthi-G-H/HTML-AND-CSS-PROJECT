@@ -28,9 +28,9 @@ This folder contains custom-designed buttons and radio buttons using only HTML a
 1. Download or clone the repository:  
    `git clone https://github.com/Prakruthi-G-H/HTML-AND-CSS-PROJECT`
 
-2. Open each .html file in a web browser (e.g., Button1.html or RadioButton.html).
-
-3. Ensure the corresponding .css file is in the same folder as the .html file for proper styling.
+2.  Navigate to the Buttons folder. 
+3.  Open each .html file in a web browser (e.g., Button1.html or RadioButton.html).
+4.  Ensure the corresponding .css file is in the same folder as the .html file for proper styling.
 
 
 ## 👩‍💻 Developed by
