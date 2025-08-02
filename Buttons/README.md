@@ -9,12 +9,6 @@ This folder contains custom-designed buttons and radio buttons using only HTML a
 - **CSS3** – For styling the buttons
 
 
-## 📁 Folder Structure
-
-- `Accordionpage.html` → Main frontend HTML structure  
-- `Accordionpage.css`  → Styling for layout and elements  
-- `README.md` → Project documentation
-
 ## 📌 Features
 
 - Fully responsive button designs
