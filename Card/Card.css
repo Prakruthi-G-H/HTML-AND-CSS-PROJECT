@@ -7,14 +7,14 @@ body{
 
 }
 
-.card-container{
+.card-container {
     position: relative;
     padding: 40px;
     width: 90%;
     max-width: 500px;
-    box-sizing: border-box;
     background-color: white;
     overflow: hidden;
+    box-sizing: border-box;
 }
 
 .card-container::before{
@@ -64,4 +64,5 @@ a{
     color: #fff;
     background-color: rgb(184, 141, 22);
 }
+
 
