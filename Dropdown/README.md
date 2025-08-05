@@ -35,3 +35,12 @@ This is a simple and elegant HTML + CSS dropdown menu showcasing a list of skill
     
 4. Open Accordionpage.html in any modern web browser (e.g., Chrome, Firefox, Edge).
 
+
+## 👩‍💻 Developed by
+
+**Prakruthi G H**  
+📍 Bangalore, India  
+📧 prakruthigh28@gmail.com  
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/prakruthi-g-h)
+
+
