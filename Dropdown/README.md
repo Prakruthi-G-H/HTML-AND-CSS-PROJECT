@@ -20,3 +20,18 @@ This is a simple and elegant HTML + CSS dropdown menu showcasing a list of skill
 - Dark theme layout (black background with vibrant colors)
 - Highlights important frontend and programming skills
 
+## 🚀 How to Run
+
+1. Download or clone the repository:  
+   `git clone https://github.com/Prakruthi-G-H/HTML-AND-CSS-PROJECT`
+
+2. Navigate to the folder:
+    Dropdown/
+   
+3. Ensure both files are present in the folder:
+   
+   - Simpledropdown.htmle.html
+   - Style.css
+    
+4. Open Accordionpage.html in any modern web browser (e.g., Chrome, Firefox, Edge).
+
