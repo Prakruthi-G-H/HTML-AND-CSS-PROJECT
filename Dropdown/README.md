@@ -1,6 +1,10 @@
 ## 📂 Dropdown Menu Project
 This is a simple and elegant HTML + CSS dropdown menu showcasing a list of skills. The project demonstrates how to implement a custom dropdown from scratch without JavaScript.
 
+## 🛠️ Technologies Used
+- HTML5 – Markup structure
+- CSS3 – Styling and animations
+
 ## 📌 Features
 - Responsive dropdown menu on hover
 - Clean UI with modern button styling
