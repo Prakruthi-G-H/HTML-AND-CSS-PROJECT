@@ -20,6 +20,22 @@ Each project is placed in its own folder for better organization and learning.
 | ScrollBar            | Custom scrollbar styling                     |
 | Survey Form          | Simple user feedback survey                  |
 
+## 🔗 Live Demo Links
+
+| Project Name         | Live Demo Link                                                   |
+|----------------------|-----------------------------------------------------------------|
+| Tribute Page         | [Live Demo](https://prakruthi-g-h.github.io/HTML-AND-CSS-PROJECT/TributePage/)         |
+| Accordion            | [Live Demo](https://prakruthi-g-h.github.io/HTML-AND-CSS-PROJECT/Accordion%20page/)    |
+| Buttons              | [Live Demo](https://prakruthi-g-h.github.io/HTML-AND-CSS-PROJECT/Buttons/)              |
+| Card                 | [Live Demo](https://prakruthi-g-h.github.io/HTML-AND-CSS-PROJECT/Card/)                 |
+| Dropdown             | [Live Demo](https://prakruthi-g-h.github.io/HTML-AND-CSS-PROJECT/Dropdown/)             |
+| Form                 | [Live Demo](https://prakruthi-g-h.github.io/HTML-AND-CSS-PROJECT/Form/)                 |
+| Login Form           | [Live Demo](https://prakruthi-g-h.github.io/HTML-AND-CSS-PROJECT/Login%20Form/)         |
+| Menu                 | [Live Demo](https://prakruthi-g-h.github.io/HTML-AND-CSS-PROJECT/Menu/)                 |
+| Rotating Text        | [Live Demo](https://prakruthi-g-h.github.io/HTML-AND-CSS-PROJECT/Rotating%20Text/)      |
+| ScrollBar            | [Live Demo](https://prakruthi-g-h.github.io/HTML-AND-CSS-PROJECT/ScrollBar/)            |
+| Survey Form          | [Live Demo](https://prakruthi-g-h.github.io/HTML-AND-CSS-PROJECT/Survey%20Form/)        |
+
 ## 🚀 How to Run Any Project
 
 You can clone the entire repo and explore each project individually.
