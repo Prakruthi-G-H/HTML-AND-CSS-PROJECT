@@ -19,6 +19,7 @@ Each project is placed in its own folder for better organization and learning.
 | Rotating Text        | Animation of rotating words/text             |
 | ScrollBar            | Custom scrollbar styling                     |
 | Survey Form          | Simple user feedback survey                  |
+| Profile Card         | Simple Profile Card                          |
 
 ## 🔗 Live Demo Links
 
@@ -35,6 +36,7 @@ Each project is placed in its own folder for better organization and learning.
 | Rotating Text        | [Live Demo](https://prakruthi-g-h.github.io/HTML-AND-CSS-PROJECT/Rotating%20Text/)      |
 | ScrollBar            | [Live Demo](https://prakruthi-g-h.github.io/HTML-AND-CSS-PROJECT/ScrollBar/)            |
 | Survey Form          | [Live Demo](https://prakruthi-g-h.github.io/HTML-AND-CSS-PROJECT/Survey%20Form/)        |
+| Profile Card         | [Live Demo](https://prakruthi-g-h.github.io/HTML-AND-CSS-PROJECT/Profile%20Card/)       |
 
 ## 🚀 How to Run Any Project
 
