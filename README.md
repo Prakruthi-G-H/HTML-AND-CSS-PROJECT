@@ -37,6 +37,7 @@ Each project is placed in its own folder for better organization and learning.
 | ScrollBar            | [Live Demo](https://prakruthi-g-h.github.io/HTML-AND-CSS-PROJECT/ScrollBar/)            |
 | Survey Form          | [Live Demo](https://prakruthi-g-h.github.io/HTML-AND-CSS-PROJECT/Survey%20Form/)        |
 | Profile Card         | [Live Demo](https://prakruthi-g-h.github.io/HTML-AND-CSS-PROJECT/Profile%20Card/)       |
+| Subscription Form    | [Live Demo](https://prakruthi-g-h.github.io/HTML-AND-CSS-PROJECT/Subscription%20Form/)  |
 
 ## 🚀 How to Run Any Project
 
