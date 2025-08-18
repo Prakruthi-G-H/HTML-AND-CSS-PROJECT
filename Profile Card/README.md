@@ -25,6 +25,12 @@ Profile Card – [Live Demo](https://prakruthi-g-h.github.io/HTML-AND-CSS-PROJEC
 3. Run index.html directly in your browser or use Live Server in VS Code
 4. No backend setup required
 
+✨ Features
+
+- Clean and modern profile card
+- Profile image with rounded styling
+- "Write to me" button with hover effect
+- Social media section with gradient icons and follower count
 
 ## 🔮 Future Improvements
 - Add animations to social icons.  
