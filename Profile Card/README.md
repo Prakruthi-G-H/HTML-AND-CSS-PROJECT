@@ -20,13 +20,18 @@ Profile Card – [Live Demo](https://prakruthi-g-h.github.io/HTML-AND-CSS-PROJEC
 
 1. Download or clone the repository:  
     `git clone https://github.com/Prakruthi-G-H/HTML-AND-CSS-PROJECT`
-2. Navigate to the folder:
+   
+3. Navigate to the folder:
     ProfileCard/
-3. Ensure both files are present in the folder:
+
+4. Ensure both files are present in the folder:
+
    - index.html
    - ProfileCard.css
-4. Open index.html in any modern web browser (e.g., Chrome, Firefox, Edge).
-5. No backend setup required
+     
+5. Open index.html in any modern web browser (e.g., Chrome, Firefox, Edge).
+
+6. No backend setup required
 
 ✨ Features
 
