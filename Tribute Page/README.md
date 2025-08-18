@@ -6,8 +6,8 @@ This is a simple tribute page dedicated to the Missile Man of India, Dr. A.P.J. 
 Tribute Page  - [Live Demo](https://prakruthi-g-h.github.io/HTML-AND-CSS-PROJECT/Tribute%20Page/)
 
 ## 🛠️ Technologies Used
-- HTML5
-- CSS3
+- HTML5 for structure  
+- CSS3 for styling and layout  
 
 ## 📁 Folder Structure
 - `TributePage.html` → Main HTML file 
@@ -23,6 +23,12 @@ Tribute Page  - [Live Demo](https://prakruthi-g-h.github.io/HTML-AND-CSS-PROJECT
 3. Open `TributePage.html` to view the homepage  
 4. No backend or server setup required
 
+✨ Features
+
+- Clean and modern profile card
+- Profile image with rounded styling
+- "Write to me" button with hover effect
+- Social media section with gradient icons and follower count
 
 ## 👩‍💻 Developed by
 
