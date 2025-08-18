@@ -9,11 +9,10 @@ It showcases a personal profile card with an image, user details, and social med
 - **CSS3** for styling and layout  
 - **Font Awesome** for social media icons  
 
----
 
 ## 📂 Project Structure
 
----
+
 
 ## 📸 Preview
 
@@ -23,4 +22,4 @@ A modern profile card with:
 - "Write to me" button  
 - Social media section with icons and follower count  
 
----
+
