@@ -3,7 +3,7 @@
 This project is a simple and elegant **Accordion UI component** built using **HTML** and **CSS**. It's designed to display multiple FAQs (Frequently Asked Questions) about HTML, CSS, JavaScript, Java, and Python, allowing users to expand and collapse each answer interactively.
 
 ## Live Demo Link
- Accordion Page  - [Live Demo](https://prakruthi-g-h.github.io/HTML-AND-CSS-PROJECT/Tribute%20Page/)
+ Accordion Page  -  [Live Demo](https://prakruthi-g-h.github.io/HTML-AND-CSS-PROJECT/Accordion%20page/)
 
 ## 🔧 Technologies Used
 
