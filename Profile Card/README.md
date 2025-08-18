@@ -3,23 +3,31 @@
 This project is a **Profile Card UI** built using **HTML and CSS**.  
 It showcases a personal profile card with an image, user details, and social media links.  
 
+## 🔗 Live Demo
+Profile Card – [Live Demo](https://prakruthi-g-h.github.io/HTML-AND-CSS-PROJECT/Profile%20Card/)
 
 ## 🛠️ Technologies Used
-- **HTML5** for structure  
-- **CSS3** for styling and layout  
-- **Font Awesome** for social media icons  
+- HTML5  
+- CSS3  
+
+## 📁 Folder Structure
+- `index.html` → Main HTML file  
+- `Profilecard.css` → Main stylesheet  
+- `Profile Card Image.jpg` → Profile picture  
+- `README.md` → Project documentation  
+
+## 🚀 How to Run
+
+1. Download or clone the repository:  
+   ```bash
+   git clone https://github.com/Prakruthi-G-H/ProfileCard.git
+2. Open the project folder in VS Code or any editor
+3. Run index.html directly in your browser or use Live Server in VS Code
+4. No backend setup required
 
 
-## 📂 Project Structure
-
-
-
-## 📸 Preview
-
-A modern profile card with:
-- Profile image  
-- Name and role  
-- "Write to me" button  
-- Social media section with icons and follower count  
-
+## 🔮 Future Improvements
+- Add animations to social icons.  
+- Make it fully responsive for all devices.  
+- Fetch live follower count dynamically.  
 
