@@ -7,8 +7,8 @@ It showcases a personal profile card with an image, user details, and social med
 Profile Card – [Live Demo](https://prakruthi-g-h.github.io/HTML-AND-CSS-PROJECT/Profile%20Card/)
 
 ## 🛠️ Technologies Used
-- HTML5  
-- CSS3  
+- HTML5 for structure  
+- CSS3 for styling and layout  
 
 ## 📁 Folder Structure
 - `index.html` → Main HTML file  
