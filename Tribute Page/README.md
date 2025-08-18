@@ -23,13 +23,6 @@ Tribute Page  - [Live Demo](https://prakruthi-g-h.github.io/HTML-AND-CSS-PROJECT
 3. Open `TributePage.html` to view the homepage  
 4. No backend or server setup required
 
-✨ Features
-
-- Clean and modern profile card
-- Profile image with rounded styling
-- "Write to me" button with hover effect
-- Social media section with gradient icons and follower count
-
 ## 👩‍💻 Developed by
 
 **Prakruthi G H**  
