@@ -13,7 +13,7 @@ This project is a simple and elegant **Accordion UI component** built using **HT
 
 ## 📁 Folder Structure
 
-- `Accordionpage.html` → Main frontend HTML structure  
+- `index.html` → Main frontend HTML structure  
 - `Accordionpage.css`  → Styling for layout and elements  
 - `README.md` → Project documentation
 
@@ -35,10 +35,10 @@ This project is a simple and elegant **Accordion UI component** built using **HT
    
 3. Ensure both files are present in the folder:
    
-   - Accordionpage.html
+   - index.html
    - Accordionpage.css
     
-4. Open Accordionpage.html in any modern web browser (e.g., Chrome, Firefox, Edge).
+4. Open index.html in any modern web browser (e.g., Chrome, Firefox, Edge).
 
 
 ## 👩‍💻 Developed by
