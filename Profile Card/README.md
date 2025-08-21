@@ -13,7 +13,6 @@ Profile Card – [Live Demo](https://prakruthi-g-h.github.io/HTML-AND-CSS-PROJEC
 ## 📁 Folder Structure
 - `index.html` → Main HTML file  
 - `Profilecard.css` → Main stylesheet  
-- `Profile Card Image.jpg` → Profile picture  
 - `README.md` → Project documentation  
 
 ## 🚀 How to Run
