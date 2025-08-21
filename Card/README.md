@@ -24,8 +24,8 @@
    Biography-Card/
    
 3. Make sure these files exist:
-  - index.html
-  - Card.css
+     - index.html
+     -  Card.css
 4. Open index.html in any modern browser (Chrome, Firefox, Edge).
 
  ## 👩‍💻 Developed by
