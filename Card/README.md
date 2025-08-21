@@ -8,3 +8,10 @@
 
 - **HTML5** – Semantic structure
 - **CSS3** – Layout, hover overlay, transitions, responsive centering
+
+## 📁 Folder Structure
+
+ `index.html` → Main markup
+ `Card.css`   →  Styles for the card, overlay, and hover effects
+ `README.md`  → Project documentation
+
