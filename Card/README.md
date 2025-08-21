@@ -11,7 +11,7 @@
 
 ## 📁 Folder Structure
 
- `index.html` → Main markup
- `Card.css`   →  Styles for the card, overlay, and hover effects
- `README.md`  → Project documentation
+ - `index.html` → Main markup
+ - `Card.css`   →  Styles for the card, overlay, and hover effects
+ - `README.md`  → Project documentation
 
