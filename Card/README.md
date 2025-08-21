@@ -6,5 +6,5 @@
 
 ## 🔧 Technologies Used
 
-- HTML5
-- CSS3
+- **HTML5** – Semantic structure
+- **CSS3** – Layout, hover overlay, transitions, responsive centering
