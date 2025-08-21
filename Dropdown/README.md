@@ -8,7 +8,7 @@ This is a simple and elegant HTML + CSS dropdown menu showcasing a list of skill
 
 ## 📁 Folder Structure
 
-- `Simpledropdown.html` → Main frontend HTML structure  
+- `index.html` → Main frontend HTML structure  
 - `Style.css`  → Styling for layout and elements  
 - `README.md` → Project documentation
 
