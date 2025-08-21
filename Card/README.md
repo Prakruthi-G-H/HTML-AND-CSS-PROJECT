@@ -11,7 +11,20 @@
 
 ## 📁 Folder Structure
 
- - `index.html` → Main markup
- - `Card.css`   →  Styles for the card, overlay, and hover effects
- - `README.md`  → Project documentation
+ - `index.html`  → Main markup    
+ - `Card.css`    → Styles for the card, overlay, and hover effects
+ - `README.md`   → Project documentation
 
+## 🚀 How to Run
+
+1. Download or clone the repository:
+   `git clone https://github.com/Prakruthi-G-H/HTML-AND-CSS-PROJECT`
+
+2. Navigate to the project folder:
+   Biography-Card/
+   
+3. Make sure these files exist:
+  - index.html
+  - Card.css
+4. Open index.html in any modern browser (Chrome, Firefox, Edge).
+ 
