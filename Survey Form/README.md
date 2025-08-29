@@ -7,7 +7,7 @@ Survey Form – [Live Demo](https://prakruthi-g-h.github.io/HTML-AND-CSS-PROJECT
 
 ## 🔧 Technologies Used
 
-HTML5 – Semantic structure and form elements
-CSS3 – Layout, responsive styling, and focus states
+- **HTML5** – Semantic structure and form elements
+- **CSS3** – Layout, responsive styling, and focus states
 
 
