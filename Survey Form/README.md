@@ -11,3 +11,10 @@ Survey Form – [Live Demo](https://prakruthi-g-h.github.io/HTML-AND-CSS-PROJECT
 - **CSS3** – Layout, responsive styling, and focus states
 
 
+## 📁 Folder Structure
+
+- `index.html` → Main frontend HTML structure  
+- `SurveyForm.css`  → Styling for layout and elements  
+- `README.md` → Project documentation
+
+
