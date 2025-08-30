@@ -1,5 +1,8 @@
 ## Rotating Text
 
+## Live Demo Link
+ Accordion Page  -  [Live Demo](https://prakruthi-g-h.github.io/HTML-AND-CSS-PROJECT/Rotating%20Text/)
+ 
 ## Technologies Used
 - **HTML** -  For structuring the webpage content
 - **CSS** - For styling 
