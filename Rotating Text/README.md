@@ -1,8 +1,8 @@
 ## Rotating Text
 
 ## Technologies Used
-- **HTML** -
-- **CSS** -
+- **HTML** -  For structuring the webpage content
+- **CSS** - For styling 
 
 ## 📁 Folder Structure
 
