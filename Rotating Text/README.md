@@ -13,7 +13,14 @@ Rotating Text  -  [Live Demo](https://prakruthi-g-h.github.io/HTML-AND-CSS-PROJE
 - `index.html` → Main frontend HTML structure  
 - `RotatingText.css`  → Styling for layout and elements  
 - `README.md` → Project documentation
+  
+## 📌 Features
 
+- Smooth rotating text animation  
+- Vertical sliding effect using CSS keyframes  
+- Fully responsive design  
+- Beginner-friendly code and structure  
+- Easily customizable to add or remove text items  
 
 ## 🚀 How to Run
 
