@@ -1,4 +1,5 @@
 ## Rotating Text
+This project is a simple and elegant **Rotating Text Animation** built using **HTML** and **CSS**. It displays multiple roles/titles (like *Artist, Developer, Student,* etc.) in a smooth vertical sliding effect.
 
 ## Live Demo Link
 Rotating Text  -  [Live Demo](https://prakruthi-g-h.github.io/HTML-AND-CSS-PROJECT/Rotating%20Text/)
