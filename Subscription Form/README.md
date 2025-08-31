@@ -13,7 +13,7 @@ Subscription Form - [Live Demo](https://prakruthi-g-h.github.io/HTML-AND-CSS-PRO
 - `Subscriptionform.css` → Main stylesheet  
 - `README.md` → Project documentation  
 
-✨ Features
+## ✨ Features
 
 - Clean and modern card layout
 - Gradient background design with smooth shadows
@@ -34,3 +34,11 @@ Subscription Form - [Live Demo](https://prakruthi-g-h.github.io/HTML-AND-CSS-PRO
    - Subscription Form.css
     
 4. Open index.html in any modern web browser (e.g., Chrome, Firefox, Edge).
+
+## 👩‍💻 Developed by
+
+**Prakruthi G H**  
+📍 Bangalore, India  
+📧 prakruthigh28@gmail.com  
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/prakruthi-g-h)
+
