@@ -7,3 +7,8 @@ Subscription Form - [Live Demo](https://prakruthi-g-h.github.io/HTML-AND-CSS-PRO
 ## 🛠️ Technologies Used
 - **HTML5** → Structure of the form  
 - **CSS3** → Styling, gradients, and layout  
+
+## 📁 Folder Structure
+- `index.html` → Main HTML file  
+- `Subscriptionform.css` → Main stylesheet  
+- `README.md` → Project documentation  
