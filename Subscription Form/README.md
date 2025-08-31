@@ -13,6 +13,13 @@ Subscription Form - [Live Demo](https://prakruthi-g-h.github.io/HTML-AND-CSS-PRO
 - `Subscriptionform.css` → Main stylesheet  
 - `README.md` → Project documentation  
 
+✨ Features
+
+- Clean and modern card layout
+- Gradient background design with smooth shadows
+- Hover effects on input fields and buttons
+- Close button with circular design
+
 ## 🚀 How to Run
 
 1. Download or clone the repository:  
