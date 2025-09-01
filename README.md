@@ -2,7 +2,6 @@
 
 A responsive and visually appealing **Pizza Hut website clone** built using **HTML** and **CSS**. This project is a static front-end replica designed to showcase layout structuring, styling, and creativity.
 
----
 ## 🔗 Live Demo Links
 
   Pizza Hut Clone - [Live Demo](https://prakruthi-g-h.github.io/Pizza-hut-clone/)
@@ -14,14 +13,10 @@ A responsive and visually appealing **Pizza Hut website clone** built using **HT
 - 🎨 Clean and responsive UI
 - 🧭 Navbar with menu sections
 
----
-
 ## 🛠️ Tech Stack
 
 - **HTML5**
 - **CSS3**
-
----
 
 ## 📁 Folder Structure
 - `/images` → Contains all portfolio images
@@ -38,7 +33,6 @@ A responsive and visually appealing **Pizza Hut website clone** built using **HT
 3. Open `Pizza-hut-clone.html` to view the homepage  
 4. No backend or server setup required
 
----
 
 ## 👩‍💻 Developed by
 
