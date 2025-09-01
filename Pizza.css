@@ -118,3 +118,18 @@ footer {
 footer p {
     margin: 0;
 }
+
+@media (max-width: 768px) {
+    nav ul {
+        flex-direction: column; 
+        text-align: center;
+    }
+
+    .menu-item {
+        margin-bottom: 20px;
+    }
+
+    h1 {
+        font-size: 1.8rem; 
+    }
+}
