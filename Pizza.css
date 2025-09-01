@@ -13,12 +13,6 @@ header {
     padding: 1rem 0;
 }
 
-/* .container {
-    width: 80%;
-    margin: auto;
-    overflow: hidden;
-}
- */
 .container {
     width: 90%;
     max-width: 1200px;
@@ -27,6 +21,7 @@ header {
     justify-content: space-between;
     align-items: center;
     flex-wrap: wrap; 
+    overflow: hidden;
 }
 
 
