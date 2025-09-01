@@ -14,11 +14,18 @@ header {
     padding: 1rem 0;
 }
 
-.container {
+/* .container {
     width: 80%;
     margin: auto;
     overflow: hidden;
 }
+ */
+.container {
+    width: 90%;
+    max-width: 1200px;
+    margin: auto;
+}
+
 
 header h1 {
     float: left;
