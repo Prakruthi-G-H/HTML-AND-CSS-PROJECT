@@ -126,25 +126,3 @@ footer p {
     
 }
 
-@media (max-width: 768px) {
-    nav ul {
-        flex-direction: column; 
-        text-align: center;
-    }
-    
-  .home {
-        background-size: cover;   
-        background-position: center;
-        min-height: 100vh;
-    }
- .home h2 {
-        font-size: 2.2rem;
-    }
-    .menu-item {
-        margin-bottom: 20px;
-    }
-
-    h1 {
-        font-size: 1.8rem; 
-    }
-}
