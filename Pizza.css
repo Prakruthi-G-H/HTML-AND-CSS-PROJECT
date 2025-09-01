@@ -1,11 +1,16 @@
+
+
 body {
+    font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: "Playwrite CU", cursive, Arial, sans-serif;
+    font-family: "Playwrite CU", cursive;
     font-optical-sizing: auto;
     font-style: normal;
 }
+
+
 
 header {
     background-color: black;
@@ -14,16 +19,10 @@ header {
 }
 
 .container {
-    width: 90%;
-    max-width: 1200px;
+    width: 80%;
     margin: auto;
-    display: flex;              
-    justify-content: space-between;
-    align-items: center;
-    flex-wrap: wrap; 
     overflow: hidden;
 }
-
 
 header h1 {
     float: left;
@@ -56,21 +55,21 @@ section {
     padding: 2rem 0;
 }
 
+
+
 .home {
     
     background-image: url('images/3850f470150013.5b998e4aaa916-780x517.jpg');
     background-repeat: no-repeat;
     background-size: cover;
-    background-position: center; 
-    min-height: 100vh;          
+    height: 100vh;
     color: black;
     text-align: center;
     display: flex;
     align-items: center;
     justify-content: center;
-    flex-direction: column;
     color: white;
-    padding: 0 1rem;
+
 }
 
 .home h2 {
@@ -124,6 +123,7 @@ footer {
 
 footer p {
     margin: 0;
+    
 }
 
 @media (max-width: 768px) {
