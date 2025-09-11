@@ -1,6 +1,7 @@
 # 🍕 Pizza Hut Clone 
 
-A responsive and visually appealing **Pizza Hut website clone** built using **HTML** and **CSS**. This project is a static front-end replica designed to showcase layout structuring, styling, and creativity.
+A static and responsive **Pizza Ordering website clone** built using **HTML** and **CSS**.  
+This project is a front-end replica of a pizza delivery service, designed to showcase layout structuring, styling, and creativity.  
 
 ## 🔗 Live Demo Links
 
