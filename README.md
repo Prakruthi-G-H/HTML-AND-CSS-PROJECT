@@ -7,12 +7,14 @@ This project is a front-end replica of a pizza delivery service, designed to sho
 
   Pizza Hut Clone - [Live Demo](https://prakruthi-g-h.github.io/Pizza-hut-clone/)
 
-## 🌟 Features
+## 🌟 Features  
 
-- 🍕 Beautiful landing page
-- 📸 High-quality food images
-- 🎨 Clean and responsive UI
-- 🧭 Navbar with menu sections
+- 🏠 Attractive **landing page**  
+- 📍 Location input to **find nearest Pizza Hut**  
+- 🍕 Display of **most popular deals**  
+- 🎨 Clean, structured, and **responsive UI**  
+- 📱 App download section with **Play Store** and **App Store** links  
+- 👣 Footer with policies, about, and contact links 
 
 ## 🛠️ Tech Stack
 
