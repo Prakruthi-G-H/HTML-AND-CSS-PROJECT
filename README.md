@@ -22,7 +22,7 @@ This project is a front-end replica of a pizza delivery service, designed to sho
 - **CSS3**
 
 ## 📁 Folder Structure
-- `/Images` → Contains all portfolio images
+- `/Images` → Contains all images used in the website  
 - `index.html` → Main HTML file
 - `Pizzahut.css` → Main stylesheet 
 - `README.md` → Project documentation
