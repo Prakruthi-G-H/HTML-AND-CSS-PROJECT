@@ -10,8 +10,6 @@ body {
     font-style: normal;
 }
 
-
-
 header {
     background-color: black;
     color: white;
@@ -123,4 +121,5 @@ footer {
 
 footer p {
     margin: 0;
+    
 }
