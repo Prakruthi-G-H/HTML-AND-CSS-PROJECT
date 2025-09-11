@@ -19,9 +19,9 @@ A responsive and visually appealing **Pizza Hut website clone** built using **HT
 - **CSS3**
 
 ## 📁 Folder Structure
-- `/images` → Contains all portfolio images
+- `/Images` → Contains all portfolio images
 - `index.html` → Main HTML file
-- `Pizza-hut-clone.css` → Main stylesheet 
+- `Pizzahut.css` → Main stylesheet 
 - `README.md` → Project documentation
 
 ## 🚀 How to Run
