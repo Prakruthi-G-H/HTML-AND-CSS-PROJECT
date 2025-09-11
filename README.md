@@ -30,7 +30,7 @@ A responsive and visually appealing **Pizza Hut website clone** built using **HT
    `git clone https://github.com/Prakruthi-G-H/Pizza-hut-clone.git`
 
 2. Open the folder in any browser or use Live Server in VS Code  
-3. Open `Pizza-hut-clone.html` to view the homepage  
+3. Open `index.html` to view the homepage  
 4. No backend or server setup required
 
 
